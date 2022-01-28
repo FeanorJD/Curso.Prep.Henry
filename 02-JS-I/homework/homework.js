@@ -241,8 +241,8 @@ function esVocal(letra){
     letra === "e" || 
     letra === "i" || 
     letra === "o" || 
-    letra === "u" || 
-    ) {
+    letra === "u" ||
+    ){
       return "Es vocal"
     } else {
       return "Dato incorrecto"
